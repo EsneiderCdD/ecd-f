@@ -1,6 +1,6 @@
 
-
 import './App.css'
+import Eventos from './features/eventos/Eventos'
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-
+      <Eventos> </Eventos>
 
     </>
   )
